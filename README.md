@@ -4,9 +4,9 @@ Basic Weight Tracking Application
 
 # **Table of Contents**
 
-1. Source/About
-2. Todo
-3. Version 0.0.1
+1. [Source/About](https://github.com/Markay12/WeightTracking#sourceabout)
+2. [Todo](https://github.com/Markay12/WeightTracking#todo)
+3. [Version 0.0.1](https://github.com/Markay12/WeightTracking#version-001)
 
 
 ## *Source/About*
@@ -19,6 +19,7 @@ The beginning stages will be messing with matplotlib and implementing the graphs
 
 - [ ] Implement MatPlotLib
 
-## *Version 0.0.1
+## *Version 0.0.1*
+
 
 
